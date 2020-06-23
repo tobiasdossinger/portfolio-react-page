@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Particles from 'react-particles-js';
 import data from "./data";
-import MediaCard from "./component/pictureframe"
+//import MediaCard from "./component/pictureframe"
 
 
 class App extends Component {
