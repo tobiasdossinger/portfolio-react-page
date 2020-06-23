@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
 
 .App {
   text-align: center;
   background-color: #282c34;
-  font-family: 'IBM Plex Sans', sans-serif;
+  /* font-family: 'IBM Plex Sans', sans-serif; */
+  font-family: 'Lexend Deca', sans-serif;
 }
 
 .App-logo {

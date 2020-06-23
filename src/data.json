@@ -30,7 +30,7 @@
         "scale": 0.5,
         "type": "inline",
         "move": {
-            "radius": 20
+            "radius": 2
         },
         "url": "https://cdn.matteobruni.it/images/particles/smalldeer.svg",
         "inline": {
@@ -53,8 +53,8 @@
         },
         "modes": {
             "bubble": {
-                "size": 6,
-                "distance": 40
+                "size": 2,
+                "distance": 10
             }
         }
     }
