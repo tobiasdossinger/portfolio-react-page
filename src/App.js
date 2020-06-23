@@ -5,7 +5,6 @@ import data from "./data";
 import MediaCard from "./component/pictureframe"
 
 
-
 class App extends Component {
   render() {
     return (
